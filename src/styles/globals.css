@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner {
+  background-image: url("/banner.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
